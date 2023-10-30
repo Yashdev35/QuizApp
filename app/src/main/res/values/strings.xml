@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz app</string>
+    <string name="Question_here">this is just for test for now</string>
+    <string name="false_ans">False</string>
+    <string name="true_ans">True</string>
+    <string name="previous_button">"Previous "</string>
+    <string name="next_button">Next</string>
+    <string name="image_description">question mark icon</string>
+    
+    <string name="quesion_independence">Bharat became an independent nation on 15 Aug 1947</string>
+    <string name="moreinfo_independence">Independence Day is celebrated annually on 15 August as a public holiday in India commemorating the nation\'s independence\n from the United Kingdom on 15 August 1947,\n the day when the provisions of the Indian Independence Act,\n which transferred legislative sovereignty to the Indian Constituent Assembly,\n came into effect. India retained King George VI as head of state until its transition to a republic,\n when the Constitution of India came into effect on 26 January 1950 (celebrated as Indian Republic Day) and replaced the dominion prefix.</string>
+    <string name="Bhagat_singh">Shahid Bhagat Singh was born on 27 sept 1908</string>
+    <string name="Bhagat_singh_moreinfo">Bhagat Singh (27 September 1907[1] – 23 March 1931) was a charismatic Indian revolutionary[3] who participated in the mistaken exicution of a junior British police officer[4]\n in what was to be retaliation for the death of an Indian nationalist.[5]\n He later took part in a largely symbolic bombing of the Central Legislative Assembly in Delhi and a hunger strike in jail,\n which—on the back of sympathetic coverage in Indian-owned newspapers—turned him into a household name in the Punjab region,\n and after his execution at age 23 into a martyr.</string>
+    <string name="correct_ans">That\'s a correct answer</string>
+    <string name="wrong_ans">That\'s a wrong answer</string>
+    <string name="deadend_msg_next">No more question , i shall try to add more </string>
+    <string name="deadend_msg_previous">this is the 1st question,bruh\!</string>
+</resources>
